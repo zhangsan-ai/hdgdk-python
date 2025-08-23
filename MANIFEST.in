@@ -1,0 +1,26 @@
+# 包含项目根目录下的关键文件
+include README.md
+include LICENSE
+include DEPLOY_GUIDE.md
+include setup.py
+
+# 包含lib目录下的所有DLL文件和资源
+recursive-include lib *.dll
+recursive-include lib *.so
+recursive-include lib *.pyd
+
+# 包含HD目录下的所有Python文件
+recursive-include HD *.py
+
+# 排除不必要的文件和目录
+exclude __pycache__
+exclude *.pyc
+exclude *.pyo
+exclude *.log
+exclude .gitignore
+exclude .gitattributes
+exclude .idea/
+exclude venv/
+exclude build/
+exclude dist/
+exclude *.egg-info/

@@ -1,0 +1,93 @@
+====请自行通过HD升级工具下载更新====
+====请自行通过HD升级工具下载更新====
+#测试账号:heart
+#测试密码:111
+#测试账号绘周期性的关闭测试和开启测试
+#仅用于调试使用,发布版本需要正式账号
+#开通正式账号找群主充值获取
+#HD官网:www.hdgdk.com
+#HD官方群:882724064
+#HD官方群:1030698387
+#PY模块最新版本:25-08-10-01
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【25081001】
+1.同步更新GDK25081001
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【25080101】
+1.同步更新GDK25080101
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【25070301】
+1.同步更新GDK25070301
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【25062501】
+1.同步更新GDK25062501
+2.完善一些细节python和C参数传递
+3.完善一些回调函数细节
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【25040301】
+1.同步更新GDK25040301
+
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【250320.1】
+1.添加多线程框架-可以下载
+2.模块增加2个常量值(HD配置枚举类)
+HD缓冲区大小 = 1024*100
+HD多开数量 = 62
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【250316.1】
+1.随课程增加相关demo案例代码
+课程连接:https://www.bilibili.com/video/BV1rtRAYXEwQ?spm_id_from=333.788.videopod.episodes&vd_source=62d93c95eb96c13685513f7775af114a
+16.HD PY之使用综合工具制作HD字库文件
+17.HD PY之利用字库文件进行识字找字
+18.HD PY之字库文件的相关操作和注意事项
+
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【250314.1】
+1.随课程增加相关demo案例代码
+课程连接:https://www.bilibili.com/video/BV1rtRAYXEwQ?spm_id_from=333.788.videopod.episodes&vd_source=62d93c95eb96c13685513f7775af114a
+13.HD PY之后台键鼠绑定暂停恢复解绑
+14.HD PY之传统识图和综合工具测试使用
+15.HD PY之智能动态识图和算法比较
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【250310.1】
+1.随课程增加相关demo案例代码
+课程连接:https://www.bilibili.com/video/BV1rtRAYXEwQ?spm_id_from=333.788.videopod.episodes&vd_source=62d93c95eb96c13685513f7775af114a
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【250308.1】
+1.随课程增加相关demo案例代码
+课程连接:https://www.bilibili.com/video/BV1rtRAYXEwQ?spm_id_from=333.788.videopod.episodes&vd_source=62d93c95eb96c13685513f7775af114a
+
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【250307.1】
+1.修复一些回调函数传递类型
+2.随课程增加相关demo案例代码
+课程连接:https://www.bilibili.com/video/BV1rtRAYXEwQ?spm_id_from=333.788.videopod.episodes&vd_source=62d93c95eb96c13685513f7775af114a
+
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【250304.1】
+1.同步更新GDK2250304.1版本
+2.修正一些回调的参数传递错误
+3.修复下HD驱动的前台键鼠对于扩展键不支持的情况
+
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【20250214.1】
+1.完善一些模块导入
+2.后续录制课程
+
+====请自行通过HD升级工具下载更新====
+HD Python模块【20250210.1】
+1.同步HD GDK版本25020701
+2.发布python模块全接口
